@@ -20,11 +20,6 @@ const StyledHeader = styled(Container)`
   display: flex;
   justify-content: space-between;
   padding: 32px 0 8px 0;
-  //position: fixed;
-  //top: 0;
-  //left: 0;
-  //right: 0;
-	//z-index: 666;
 	height: 61px;
 `
 
