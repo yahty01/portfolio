@@ -44,6 +44,7 @@ const StyledQuoted = styled(Container)`
 `
 
 const MainText = styled.p`
+	outline: 1px red solid;
   padding: 32px;
   border: ${theme.colors.stroke} 1px solid;
   width: 100%;
