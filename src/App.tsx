@@ -7,7 +7,7 @@ import {AboutMe} from "./layout/sections/about-me/About-me";
 import {Footer} from "./layout/footer/Footer";
 import {Contacts} from "./layout/sections/contacts/Contacts";
 
-
+//Роуты ?
 function App() {
 	return (
 		<div className="App">
